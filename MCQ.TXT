@@ -1,0 +1,8 @@
+1.= a)true
+2.= d)do-while
+3.= c)Increase the value by 1
+4.= c)do-while loop
+5.= b)4
+6.= c)AB
+7.= b)15,6
+8.= b)7
